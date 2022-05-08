@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariusTanase
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Front-Web technology 
+- 🌱 I’m currently mastering React
 - 💞️ I’m looking for a job(in future)
 - 📫 How to reach me marius_tanase@outlook.com
