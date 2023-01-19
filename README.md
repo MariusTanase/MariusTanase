@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariusTanase
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Figma for better UX/UI
+- 👀 I’m currently mastering in Web Development
+- 🌱 Mastering React and Express by doing a private project for my company.
 
 
 <h3 align="left">Connect with me:</h3>
