@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariusTanase
-- 👀 I’m currently mastering in Web Development
-- 🌱 Mastering React and Express by doing a private project for my company.
+- 👀 I’m currently mastering Web Development
+- 🌱 Working with MERN(MySQL, Express, React and NodeJS) for company integrations from a SOAP API.
 
 
 <h3 align="left">Connect with me:</h3>
