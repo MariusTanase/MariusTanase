@@ -1,12 +1,6 @@
 # Hi there 👋, I'm Marius Tanase!
 
-I'm a web developer currently mastering the MERN stack and always eager to learn new things in the field.
-
-## 🔗 Connect with me:
-
-
-
-You can also reach me via email at marius_tanase@outlook.com
+I'm a web developer currently mastering the MERN stack and always eager to learn new things in the field. Seeking Junior roles in MERN stack.
 
 ## My Latest Projects
 
@@ -28,5 +22,7 @@ WMS Integrations is an advanced internal application that enhances the managemen
 
 ## Contact Me
 
-📫 If you want to get in touch with me, feel free to send me an email at marius_tanase@outlook.com. You can also connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Marius_Tanase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marius-tanase/)](https://www.linkedin.com/in/marius-tanase/).
+## 🔗 Connect with me:
+📫 If you want to get in touch with me, feel free to send me an email at marius_tanase@outlook.com. 
+> You can also connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Marius_Tanase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marius-tanase/)](https://www.linkedin.com/in/marius-tanase/).
 
