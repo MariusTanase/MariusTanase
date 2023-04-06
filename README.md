@@ -24,7 +24,7 @@ Here's the project files: https://github.com/MariusTanase/The-Range-Web-Crawler
 
 - Front-end development: HTML, CSS, JavaScript, React, Bootstrap, Material-UI
 - Back-end development: Node.js, Express.js, MongoDB, MySQL
-- Testing: Jest
+- Testing: Jest, Insomnia
 - Other: Git, Figma, Visual Studio Code, Postman, Insomnia
 
 ## Contact Me
