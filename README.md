@@ -29,10 +29,10 @@ Here's the project files: https://github.com/MariusTanase/The-Range-Web-Crawler
 
 ## My Skills
 
-- Front-end development: HTML, CSS, JavaScript, React, Bootstrap, Material-UI, Typescrit, Tailwind
+- Front-end development: HTML, CSS, SCSS, JavaScript, React, Bootstrap, Material-UI, Typescript, Tailwind and more...
 - Back-end development: Node.js, Express.js, MongoDB, MySQL
 - Testing: Jest, Insomnia
-- Other: Git, Figma, Visual Studio Code, Postman, Insomnia
+- Other: Git, Figma, Visual Studio Code, Postman, Docker
 
 ## Contact Me
 
