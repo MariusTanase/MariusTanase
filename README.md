@@ -4,17 +4,24 @@ I'm a web developer currently mastering the MERN stack and always eager to learn
 
 ## My Latest Projects
 
-### Project 1: Radio for Coders
+### Project 1: AI-Summarizer
+AI-Summarizer is an application that utilizes the power of OpenAI's machine learning model to summarize articles. With this application, you can simply input the URL of an article, and it will generate a concise summary for you.
+
+Here's a demo of the app: https://aisummz.vercel.app/
+Git: https://github.com/MariusTanase/AI-Summarizer
+
+### Project 2: Radio for Coders
 
 This project is an online radio with a custom player and radio widgets featuring the names and images of preferred radio stations for coding. The player includes a custom theme with options for dark, light, crimson, and blue. Additionally, the background can be customized and generated to fit the user's preferences. This project is perfect for coders looking for a personalized radio experience to help them focus and stay motivated while they work.
 
 Here's a demo of the app: https://radio-mt.vercel.app/
+Git: https://github.com/MariusTanase/RadioMT
 
-### Project 2: WMS Integrations - Ongoing project - October 2022 - Present - NDA
+### Project 3: WMS Integrations - Ongoing project - October 2022 - Present - NDA
 
 WMS Integrations is an advanced internal application that enhances the management process by providing real-time statistics of pickers, packers, putaway, and receivers. The application utilizes ReactJS, Express JS, MySQL, and Node to retrieve and display data from the PeopleVox platform. Due to the NDA contract, a demo of the application is not available, but it provides a seamless integration of data from the WMS platform, making the management process much easier. The application allows for accurate tracking of statistics, which enables better decision-making for the management team. The use of ReactJS and Express JS ensures that the application is fast, reliable, and efficient, while the use of MySQL and Node makes it easy to manage the large amounts of data involved. Overall, WMS Integrations is an essential tool for any company that uses the wms.peoplevox.net platform to manage their inventory and operations.
 
-### Project 3: The Range Web Crawler - Nov 18, 2022 - Jan 20, 2023
+### Project 4: The Range Web Crawler - Nov 18, 2022 - Jan 20, 2023
 
 The Range Web Crawler is a powerful tool that allows users to quickly obtain product data by simply entering the product SKU. The system uses Puppeteer, a high-performance Node.js library, to quickly and efficiently crawl through web pages and retrieve the requested information. This data is then sent back to the user via an easy-to-use frontend built with ExpressJS.
 
@@ -22,7 +29,7 @@ Here's the project files: https://github.com/MariusTanase/The-Range-Web-Crawler
 
 ## My Skills
 
-- Front-end development: HTML, CSS, JavaScript, React, Bootstrap, Material-UI
+- Front-end development: HTML, CSS, JavaScript, React, Bootstrap, Material-UI, Typescrit, Tailwind
 - Back-end development: Node.js, Express.js, MongoDB, MySQL
 - Testing: Jest, Insomnia
 - Other: Git, Figma, Visual Studio Code, Postman, Insomnia
