@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Marius Tanase!
 
-I'm a passionate web developer specializing in the MERN stack and always on the lookout for new learning opportunities. Currently seeking Junior roles focused on the MERN stack.
+I'm a passionate full-stack developer specializing in the MERN stack and always on the lookout for new learning opportunities. I'm also a cofounder of WhoshMail.
 
 ## 🌟 Latest Projects
 
