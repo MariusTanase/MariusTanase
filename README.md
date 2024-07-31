@@ -4,7 +4,7 @@ I'm a passionate web developer specializing in the MERN stack and always on the 
 
 ## 🌟 Latest Projects
 
-### **WhoshMail**
+### **WhoshMail** (Ongoing Project - July 2024 - Present)
 
 I’m excited to introduce **WhoshMail**, a revolutionary email service platform designed to transform how businesses approach email marketing and communication. WhoshMail offers unparalleled email deliverability, scalability, and analytics, enabling companies to maximize their email marketing efforts and improve customer engagement. With a focus on speed ("Whosh!"), performance, and user-friendly interfaces, WhoshMail is set to disrupt the email service industry.
 
