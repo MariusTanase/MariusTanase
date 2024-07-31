@@ -8,6 +8,11 @@ I'm a passionate web developer specializing in the MERN stack and always on the 
 
 I’m excited to introduce **WhoshMail**, a revolutionary email service platform designed to transform how businesses approach email marketing and communication. WhoshMail offers unparalleled email deliverability, scalability, and analytics, enabling companies to maximize their email marketing efforts and improve customer engagement. With a focus on speed ("Whosh!"), performance, and user-friendly interfaces, WhoshMail is set to disrupt the email service industry.
 
+### **WMS Integrations** (Ongoing Project - Oct 2022 - Present)
+
+WMS Integrations is an internal application designed to enhance warehouse management based on PeopleVox Warehouse Management System. It provides real-time statistics on pickers, packers, putaway, and receivers using ReactJS, ExpressJS, MySQL, and Node.js. Due to an NDA, a demo isn't available, but this tool streamlines data integration and management for the PeopleVox platform, supporting better decision-making and operational efficiency. Saving hundreds of hours per month in reports, enhancing productivity in DCs for our ECOM divisions as the delivery for the orders are more enhanced. Reports for Critical orders, what is left to despatch, staff tracker such as last activity and a total amount of gap-times etc.
+
+
 ### **AI-Summarizer**
 
 AI-Summarizer leverages OpenAI's machine learning technology to provide concise summaries of articles. Just input the URL of an article, and you'll receive a clear and succinct summary.
@@ -22,15 +27,6 @@ Radio for Coders is a unique online radio experience tailored for programmers. I
 - **Demo**: [Radio for Coders](https://radio-mt.vercel.app/)
 - **Code**: [GitHub Repository](https://github.com/MariusTanase/RadioMT)
 
-### **WMS Integrations** (Ongoing Project - Oct 2022 - Present - NDA)
-
-WMS Integrations is an internal application designed to enhance warehouse management. It provides real-time statistics on pickers, packers, putaway, and receivers using ReactJS, ExpressJS, MySQL, and Node.js. Due to an NDA, a demo isn't available, but this tool streamlines data integration and management for the PeopleVox platform, supporting better decision-making and operational efficiency.
-
-### **The Range Web Crawler** (Nov 18, 2022 - Jan 20, 2023)
-
-The Range Web Crawler is a robust tool that retrieves product data quickly using Puppeteer, a Node.js library. Input a product SKU, and the crawler will efficiently extract and display the relevant information through a user-friendly frontend built with ExpressJS.
-
-- **Code**: [GitHub Repository](https://github.com/MariusTanase/The-Range-Web-Crawler)
 
 ## 🛠️ Skills
 
