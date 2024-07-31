@@ -1,42 +1,46 @@
-# Hi there 👋, I'm Marius Tanase!
+# Hello there 👋, I'm Marius Tanase!
 
-I'm a web developer currently mastering the MERN stack and always eager to learn new things in the field. Seeking Junior roles in MERN stack.
+I'm a passionate web developer specializing in the MERN stack and always on the lookout for new learning opportunities. Currently seeking Junior roles focused on the MERN stack.
 
-## My Latest Projects
+## 🌟 Latest Projects
 
-### Project 1: AI-Summarizer
-AI-Summarizer is an application that utilizes the power of OpenAI's machine learning model to summarize articles. With this application, you can simply input the URL of an article, and it will generate a concise summary for you.
+### **WhoshMail**
 
-Here's a demo of the app: https://aisummz.vercel.app/
-Git: https://github.com/MariusTanase/AI-Summarizer
+I’m excited to introduce **WhoshMail**, a revolutionary email service platform designed to transform how businesses approach email marketing and communication. WhoshMail offers unparalleled email deliverability, scalability, and analytics, enabling companies to maximize their email marketing efforts and improve customer engagement. With a focus on speed ("Whosh!"), performance, and user-friendly interfaces, WhoshMail is set to disrupt the email service industry.
 
-### Project 2: Radio for Coders
+### **AI-Summarizer**
 
-This project is an online radio with a custom player and radio widgets featuring the names and images of preferred radio stations for coding. The player includes a custom theme with options for dark, light, crimson, and blue. Additionally, the background can be customized and generated to fit the user's preferences. This project is perfect for coders looking for a personalized radio experience to help them focus and stay motivated while they work.
+AI-Summarizer leverages OpenAI's machine learning technology to provide concise summaries of articles. Just input the URL of an article, and you'll receive a clear and succinct summary.
 
-Here's a demo of the app: https://radio-mt.vercel.app/
-Git: https://github.com/MariusTanase/RadioMT
+- **Demo**: [AI-Summarizer](https://aisummz.vercel.app/)
+- **Code**: [GitHub Repository](https://github.com/MariusTanase/AI-Summarizer)
 
-### Project 3: WMS Integrations - Ongoing project - October 2022 - Present - NDA
+### **Radio for Coders**
 
-WMS Integrations is an advanced internal application that enhances the management process by providing real-time statistics of pickers, packers, putaway, and receivers. The application utilizes ReactJS, Express JS, MySQL, and Node to retrieve and display data from the PeopleVox platform. Due to the NDA contract, a demo of the application is not available, but it provides a seamless integration of data from the WMS platform, making the management process much easier. The application allows for accurate tracking of statistics, which enables better decision-making for the management team. The use of ReactJS and Express JS ensures that the application is fast, reliable, and efficient, while the use of MySQL and Node makes it easy to manage the large amounts of data involved. Overall, WMS Integrations is an essential tool for any company that uses the wms.peoplevox.net platform to manage their inventory and operations.
+Radio for Coders is a unique online radio experience tailored for programmers. It features a custom player with a variety of themes (dark, light, crimson, and blue) and allows users to personalize their radio station backgrounds. Perfect for maintaining focus and motivation during coding sessions.
 
-### Project 4: The Range Web Crawler - Nov 18, 2022 - Jan 20, 2023
+- **Demo**: [Radio for Coders](https://radio-mt.vercel.app/)
+- **Code**: [GitHub Repository](https://github.com/MariusTanase/RadioMT)
 
-The Range Web Crawler is a powerful tool that allows users to quickly obtain product data by simply entering the product SKU. The system uses Puppeteer, a high-performance Node.js library, to quickly and efficiently crawl through web pages and retrieve the requested information. This data is then sent back to the user via an easy-to-use frontend built with ExpressJS.
+### **WMS Integrations** (Ongoing Project - Oct 2022 - Present - NDA)
 
-Here's the project files: https://github.com/MariusTanase/The-Range-Web-Crawler
+WMS Integrations is an internal application designed to enhance warehouse management. It provides real-time statistics on pickers, packers, putaway, and receivers using ReactJS, ExpressJS, MySQL, and Node.js. Due to an NDA, a demo isn't available, but this tool streamlines data integration and management for the PeopleVox platform, supporting better decision-making and operational efficiency.
 
-## My Skills
+### **The Range Web Crawler** (Nov 18, 2022 - Jan 20, 2023)
 
-- Front-end development: HTML, CSS, SCSS, JavaScript, React, Bootstrap, Material-UI, Typescript, Tailwind and more...
-- Back-end development: Node.js, Express.js, MongoDB, MySQL
-- Testing: Jest, Insomnia
-- Other: Git, Figma, Visual Studio Code, Postman, Docker
+The Range Web Crawler is a robust tool that retrieves product data quickly using Puppeteer, a Node.js library. Input a product SKU, and the crawler will efficiently extract and display the relevant information through a user-friendly frontend built with ExpressJS.
 
-## Contact Me
+- **Code**: [GitHub Repository](https://github.com/MariusTanase/The-Range-Web-Crawler)
 
-## 🔗 Connect with me:
-📫 If you want to get in touch with me, feel free to send me an email at marius_tanase@outlook.com. 
-> You can also connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Marius_Tanase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marius-tanase/)](https://www.linkedin.com/in/marius-tanase/).
+## 🛠️ Skills
 
+- **Front-End Development**: HTML, CSS, SCSS, JavaScript, React, Bootstrap, Material-UI, TypeScript, Tailwind, and more.
+- **Back-End Development**: Node.js, Express.js, MongoDB, MySQL
+- **Testing**: Jest, Insomnia
+- **Tools**: Git, Figma, Visual Studio Code, Postman, Docker
+
+## 📫 Contact Me
+
+Feel free to reach out via email at [marius_tanase@outlook.com](mailto:marius_tanase@outlook.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/marius-tanase/) using the badge below:
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Marius_Tanase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marius-tanase/)](https://www.linkedin.com/in/marius-tanase/)
