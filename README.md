@@ -8,7 +8,7 @@ I'm a passionate full-stack developer specializing in the MERN stack and always 
 
 I’m excited to introduce **WhoshMail**, a revolutionary email service platform designed to transform how businesses approach email marketing and communication. WhoshMail offers unparalleled email deliverability, scalability, and analytics, enabling companies to maximize their email marketing efforts and improve customer engagement. With a focus on speed ("Whosh!"), performance, and user-friendly interfaces, WhoshMail is set to disrupt the email service industry.
 
-### **WMS Integrations** (Ongoing Project - Oct 2022 - Present)
+### **WMS Integrations** (Oct 2022 - Dec 2024)
 
 WMS Integrations is an internal application designed to enhance warehouse management based on PeopleVox Warehouse Management System. It provides real-time statistics on pickers, packers, putaway, and receivers using ReactJS, ExpressJS, MySQL, and Node.js. Due to an NDA, a demo isn't available, but this tool streamlines data integration and management for the PeopleVox platform, supporting better decision-making and operational efficiency. Saving hundreds of hours per month in reports, enhancing productivity in DCs for our ECOM divisions as the delivery for the orders are more enhanced. Reports for Critical orders, what is left to despatch, staff tracker such as last activity and a total amount of gap-times etc.
 
